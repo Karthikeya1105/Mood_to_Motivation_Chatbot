@@ -42,3 +42,8 @@ Output: "Take a deep breath! Challenges only make you stronger. You’ve got thi
 🙌 Credits
 
 Built during Codegnan NLP Workshop (Day-5 Hackathon) by our team.
+Team Members:
+1. N.Karthikeya(Team Leader)
+2. K.Devi Sri
+3. V.Ridhima
+4. K.Mahitosh
